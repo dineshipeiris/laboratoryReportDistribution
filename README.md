@@ -1,5 +1,5 @@
 # laboratoryReportDistribution
-This was done in July 2020
+This was done in July 2020.
 XYZ hospital network depends on their labs for diagnostics to guide patient health. 
 Any laboratory test report that is uploaded from one of their laboratory branches can be accessed via any hospital of XYZ and anytime 
 based on the request of patient and general practitioner. 
